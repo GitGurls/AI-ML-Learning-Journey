@@ -219,3 +219,6 @@ Ye Machine Learning mein feature selection aur search problems ko samajhne mein 
 
 <img width="877" height="372" alt="image" src="https://github.com/user-attachments/assets/f84048d2-7bba-4658-b4dd-bd7e0dc10693" />
 
+<img width="972" height="617" alt="image" src="https://github.com/user-attachments/assets/2e865cbf-f207-41d9-9f89-b45a373584e6" />
+
+
