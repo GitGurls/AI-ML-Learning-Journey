@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 
 1. What does Put Objects in r Buckets mean?
 Maan lo tumhare paas 3 balls hain aur 2 buckets hain.
