@@ -216,3 +216,6 @@ Example: Tumhare dataset mein 10 features hain aur tum unmein se 3 features sele
 Matlab 120 possible feature groups hain.
 
 Ye Machine Learning mein feature selection aur search problems ko samajhne mein useful hai.
+
+<img width="877" height="372" alt="image" src="https://github.com/user-attachments/assets/f84048d2-7bba-4658-b4dd-bd7e0dc10693" />
+
