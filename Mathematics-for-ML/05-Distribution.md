@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="932" height="282" alt="image" src="https://github.com/user-attachments/assets/08362f1e-31ff-46f4-a3cf-31d70c17e2e7" />
 
 1. What does Put Objects in r Buckets mean?
 Maan lo tumhare paas 3 balls hain aur 2 buckets hain.
@@ -161,3 +161,6 @@ Formula:
 
 Answer = 4 ways.
 Indistinct Objects = C(n+r−1, r−1)
+
+![Uploading image.png…]()
+
