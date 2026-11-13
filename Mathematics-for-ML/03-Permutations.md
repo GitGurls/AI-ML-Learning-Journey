@@ -371,3 +371,42 @@ Q4. LEVEL word ke unique arrangements kitne hain?
 60
 
 120
+
+
+How many unique 6-digit passcodes are possible if a passcode uses each of five distinct numbers?
+
+Simple Hinglish: Agar 6-digit ka password banana hai aur usmein 5 different digits use hone hain, toh kitne unique passwords ban sakte hain?
+Step 1. Given information
+- Total positions = 6
+- Distinct digits = 5
+- Har digit kam se kam ek baar use hoga.
+- Ek digit repeat hoga.
+Maan lo digits hain: 1, 2, 3, 4, 5
+
+Inmein se ek digit do baar aayega.
+Step 2. Repeated digit choose karo
+5 digits mein se koi ek digit repeat ho sakta hai.
+
+Total choices = 5
+Step 3. Arrangements calculate karo
+Ab 6 digits arrange karne hain, jismein ek digit 2 baar repeat hai.
+\[
+\frac{6!}{2!}
+\]
+
+\[
+=\frac{720}{2}=360
+\]
+
+Step 4. Total passcodes
+\[
+5\times360
+\]
+
+\[
+\boxed{1800}
+\]
+
+
+<img width="1132" height="645" alt="image" src="https://github.com/user-attachments/assets/0d4dd9ad-f36f-48d9-b685-4515d4c5a5c7" />
+
