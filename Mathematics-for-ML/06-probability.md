@@ -28,3 +28,6 @@ Even numbers:
 \[
 \boxed{A=\{2,4,6\}}
 \]
+
+
+<img width="1307" height="692" alt="image" src="https://github.com/user-attachments/assets/de5019be-d942-4c93-a311-80fe761c8109" />
