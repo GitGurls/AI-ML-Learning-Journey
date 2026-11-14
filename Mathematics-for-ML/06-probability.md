@@ -30,6 +30,7 @@ Even numbers:
 \]
 
 
+<img width="1176" height="647" alt="image" src="https://github.com/user-attachments/assets/ce3fd533-9e81-4a9d-bb1a-d3b0c60b9cab" />
 
 
 <img width="1252" height="615" alt="image" src="https://github.com/user-attachments/assets/63b6a299-9f2a-4751-a2e3-fb707496491b" />
