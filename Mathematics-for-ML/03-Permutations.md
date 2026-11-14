@@ -410,3 +410,7 @@ Step 4. Total passcodes
 
 <img width="1132" height="645" alt="image" src="https://github.com/user-attachments/assets/0d4dd9ad-f36f-48d9-b685-4515d4c5a5c7" />
 
+
+<img width="1137" height="695" alt="image" src="https://github.com/user-attachments/assets/d87f27d7-0975-4819-9e85-92850314c26a" />
+
+
