@@ -41,3 +41,7 @@ Even numbers:
 
 <img width="841" height="602" alt="image" src="https://github.com/user-attachments/assets/c851387e-fa08-48ba-83ec-aafc311f2a9f" />
 
+
+<img width="857" height="386" alt="image" src="https://github.com/user-attachments/assets/79207269-0067-4ae4-b086-d02b9c81d9c1" />
+
+
