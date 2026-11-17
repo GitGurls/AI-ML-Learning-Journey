@@ -250,3 +250,5 @@ P(E')=1-P(E)
 \]
 
 
+
+<img width="1026" height="486" alt="image" src="https://github.com/user-attachments/assets/d9dfe0e4-5517-4734-b330-62d74ebdde0a" />
